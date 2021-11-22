@@ -1,0 +1,12 @@
+package GUIAssignment;
+
+import java.util.*;
+
+public class Program {
+	public static void main(String[] args) {
+		
+		Date d = new Date();
+		System.out.println(d);
+	}
+
+}
